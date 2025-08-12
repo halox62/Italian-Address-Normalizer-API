@@ -1,0 +1,10 @@
+text
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+python-levenshtein
+pydantic
+overrides
+# optional libpostal binding
+postal
